@@ -12,7 +12,8 @@ This site showcases the Darwin Special Collection at UCSB. This is currently a w
 Roadmap & Goals:
 * Have all stories done, and ready for feedback by Friday 11/21.
 * Take the feedback into consideration, and try to polish with an updated version by Tuesday, 11/25
-* Have the finalized version ready to present by Monday, Dec 1st.
+* Have the (almost) finalized version ready to present by Monday, Dec 1st, and then take any last minute feedback and possible input from peer reviews.
+* Then it shall be "Ready".
 Feedback on the current state of the project can be put [here](https://docs.google.com/forms/d/e/1FAIpQLScRYMDTashOQJDZuH608xJW_tGqDbX_byeKAC1gpd2TTR4vaA/viewform?usp=publish-editor) (it's anonymous ( ´ ω ` ) )
 
 
