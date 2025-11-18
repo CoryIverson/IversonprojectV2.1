@@ -1,6 +1,6 @@
 ---
 term_id: Julian-Sorell-Huxley
-title: "ViceroyaltJulian Sorell Huxley (1887-1975)"
+title: "Julian Sorell Huxley (1887-1975)"
 related_terms: Thomas-Huxley, Charles-Darwin, Marginalia, Modern-Synthesis
 ---
 

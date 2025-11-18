@@ -1,6 +1,6 @@
 ---
 term_id: iiif-manifest
-title: "IIIF Manifest"
+title: "IIIF Manifest (remove before release)"
 related_terms: iiif, iiif-tiles
 ---
 
