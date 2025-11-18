@@ -9,7 +9,7 @@ url: "https://coryiverson.github.io"
 author: ""
 email: ""
 telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
-logo: "components\images\objects\evolutionimage1.png" # Path to logo image (optional)
+logo: """ # Path to logo image (optional)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
 # Google Sheets Integration (optional)
