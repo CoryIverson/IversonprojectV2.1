@@ -4,7 +4,7 @@
 # Site Settings
 title: Darwin Collection
 description: "This exhibit showcases archival materials from UC Santa Barbara’s Darwin and Evolution Collection. Acquired in 1968, the collection includes items from the estates of Thomas Henry Huxley and Julian Sorell Huxley, along with materials from figures such as Sir Edward Tylor and Charles Darwin. These artifacts contribute to a broader historical understanding of how evolutionary theory developed not through a single author or breakthrough theory, but through extensive networks of correspondence, note-taking, reading practices, public discourse, and ongoing reinterpretation across generations."
-baseurl: "/IversonProjectV2"
+baseurl: "/IversonProjectV2.1"
 url: "https://coryiverson.github.io"
 author: ""
 email: ""
