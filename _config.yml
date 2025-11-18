@@ -1,0 +1,120 @@
+# Telar - Digital Storytelling Framework
+# https://github.com/UCSB-AMPLab/telar
+
+# Site Settings
+title: Darwin Collection
+description: "This exhibit showcases archival materials from UC Santa Barbara’s Darwin and Evolution Collection. Acquired in 1968, the collection includes items from the estates of Thomas Henry Huxley and Julian Sorell Huxley, along with materials from figures such as Sir Edward Tylor and Charles Darwin. These artifacts contribute to a broader historical understanding of how evolutionary theory developed not through a single author or breakthrough theory, but through extensive networks of correspondence, note-taking, reading practices, public discourse, and ongoing reinterpretation across generations."
+baseurl: "/IversonProjectV2"
+url: "https://coryiverson.github.io"
+author: ""
+email: ""
+telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+logo: "" # Path to logo image (optional)
+telar_language: "en" # Options: "en" (English), "es" (Español)
+
+# Google Sheets Integration (optional)
+# Manage content via Google Sheets instead of editing CSV files directly.
+# See docs/google_sheets_integration/README.md for detailed setup instructions.
+#
+# Setup:
+# 1. Get the template:
+#    - Option A: Duplicate our template at https://bit.ly/telar-template
+#    - Option B: Import docs/google_sheets_integration/telar-template.xlsx to Google Sheets yourself
+# 2. Share your sheet: Anyone with the link (Viewer access)
+# 3. Publish your sheet: File > Share > Publish to web
+# 4. Paste both URLs below
+# 5. Set enabled: true
+# 6. Commit changes
+#    - If using GitHub Pages: GitHub Actions will automatically discover tab GIDs and fetch CSVs
+#    - If running locally: Run `python3 scripts/fetch_google_sheets.py` before building
+google_sheets:
+  enabled: true
+  shared_url: "https://docs.google.com/spreadsheets/d/1QBBOvuc0ohto-6Zx7ep-u7S8XJNhU4UC76CGHtuw82A/edit?usp=sharing"
+  published_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZP9S2QuFBrR_3haQam3nWLWW6tNOVFd1YRFH2oMwQwifnTDFiW4wp8uK2ZJMjz-17visRxWDBgmpZ/pubhtml"
+
+# Story Interface Settings
+story_interface:
+  show_story_steps: true # Set to false to hide "Step X" overlay in stories
+  include_demo_content: false # v0.5.0 feature - demo stories from external repository
+
+
+#
+#
+#
+# PLEASE DO NOT EDIT BELOW THIS LINE UNLESS YOU KNOW WHAT YOU ARE DOING
+#
+#
+#
+
+# Collections
+collections:
+  stories:
+    output: true
+    permalink: /stories/:name/
+  objects:
+    output: true
+    permalink: /objects/:name/
+  glossary:
+    output: true
+    permalink: /glossary/:name/
+
+# Collections Directory (a folder where Jekyll and the Telar scripts will put all auto-generated object and story working files)
+collections_dir: _jekyll-files
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+  - README.md
+  - docs/
+  - scripts/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: "story"
+  - scope:
+      path: ""
+      type: "objects"
+    values:
+      layout: "object"
+  - scope:
+      path: ""
+      type: "glossary"
+    values:
+      layout: "glossary"
+
+# Tell Jekyll not to expect dates for these collections
+future: true
+show_drafts: false
+
+# Telar Settings (version information)
+telar:
+  version: "0.4.3-beta"
+  release_date: "2025-11-15"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# WEBrick server configuration for development (enables CORS for IIIF)
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+    Access-Control-Allow-Methods: "GET, POST, OPTIONS"
+    Access-Control-Allow-Headers: "Content-Type"
+
+# Development & Testing
+# Set to false or remove for production use
+testing-features:
+  # Christmas Tree Mode - Displays all warning messages for testing multilingual support
+  # Set to true to light up the site with test warnings (test objects, fake errors, etc.)
+  christmas_tree_mode: false
