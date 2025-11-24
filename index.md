@@ -7,7 +7,7 @@ objects_heading: ""
 objects_intro: "Browse {count} objects featured in the stories."
 ---
 
-![Front Banner](evolutionimage1.png){lg} 
+![Front Banner](components/images/evolutionimage1.png)
 ## Welcome to the Iverson Special Collection Project (V2.1).
 This site showcases the Darwin Special Collection at UCSB. This is currently a work in progress.
 Roadmap & Goals:
