@@ -7,13 +7,14 @@ objects_heading: ""
 objects_intro: "Browse {count} objects featured in the stories."
 ---
 
+![Front Banner](evolutionimage1.png){lg} 
 ## Welcome to the Iverson Special Collection Project (V2.1).
 This site showcases the Darwin Special Collection at UCSB. This is currently a work in progress.
 Roadmap & Goals:
 * Have all stories done, and ready for feedback by Friday 11/21.
 * Take the feedback into consideration, and try to polish with an updated version by Tuesday, 11/25
 * Have the (almost) finalized version ready to present by Monday, Dec 1st, and then take any last minute feedback and possible input from peer reviews.
-* Then it shall be "Ready".
+* Then it shall be "R.pngeady".
 Feedback on the current state of the project can be put [here](https://docs.google.com/forms/d/e/1FAIpQLScRYMDTashOQJDZuH608xJW_tGqDbX_byeKAC1gpd2TTR4vaA/viewform?usp=publish-editor) (it's anonymous ( ´ ω ` ) )
 
 
