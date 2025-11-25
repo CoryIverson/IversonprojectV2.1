@@ -1,11 +1,6 @@
 ---
-title: Progressive Disclosure
+title: Herbet Spencer
 ---
+Work in Progress - 
 
-Telar's **two-layer panel system** lets you provide information at different depths:
-
-**Layer 1** (this panel) offers context and overview - perfect for readers who want the essential story.
-
-**Layer 2** (click "Deep Dive" below) provides detailed analysis, scholarly citations, and extended discussion for readers who want to go deeper.
-
-This approach accommodates different reading styles and levels of interest without cluttering the main narrative.
+Herbert Spencer coined the phrase, not Darwin. Darwin later adopted the wording in later editions of On the Origin of Species because [Alfred Wallace among others urged him to use Spencers re-phrasing of natural selection.](https://www.darwinproject.ac.uk/commentary/survival-fittest)
