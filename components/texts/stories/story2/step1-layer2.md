@@ -1,7 +1,7 @@
 ---
-title: How did the Beagle voyage shape Darwin’s thinking?
+title: Darwin after the Beagle
 ---
 
-During the HMS Beagle voyage (1831–1836), Darwin collected specimens, compared environments, and observed geological formations firsthand. He read Charles Lyell’s *Principles of Geology* on board, which presented Darwin with Lyells theory of gradualism which emphasized a slow change over millenias of time.
+After returning to England, Darwin spent years sorting his specimens, exchanging letters with naturalists, and reading scientific and political works that sharpened his ideas. Thomas Malthus’s arguments about population pressure and competition helped him see how limited resources could drive differential survival in nature. Through notebooks, drafts, and correspondence, he slowly built the framework for natural selection but delayed publishing it. But, by 1858 a key event forced Darwin to publish...
 
-this concept, along with exposure, examinations, and collecting various speciems to examine (Darwins Finches) pushed him to consider variation, adaptation, and the possibility that species were not fixed. The voyage provided the raw observations that later fueled his theoretical work...
+---> add into how Alfred Russel Wallace independently arrived at a similar theory, prompting their joint 1858 presentation.
