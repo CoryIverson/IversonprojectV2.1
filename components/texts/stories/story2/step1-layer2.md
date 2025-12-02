@@ -2,6 +2,4 @@
 title: Darwin after the Beagle
 ---
 
-After returning to England, Darwin spent years sorting his specimens, exchanging letters with naturalists, and reading scientific and political works that sharpened his ideas. Thomas Malthus’s arguments about population pressure and competition helped him see how limited resources could drive differential survival in nature. Through notebooks, drafts, and correspondence, he slowly built the framework for natural selection but delayed publishing it. But, by 1858 a key event forced Darwin to publish...
-
----> add into how Alfred Russel Wallace independently arrived at a similar theory, prompting their joint 1858 presentation.
+After returning to England, Darwin spent years sorting his specimens, exchanging letters with naturalists, and reading scientific and political works that sharpened his ideas. Thomas Malthus’s arguments about population pressure and competition helped him see how limited resources could drive differential survival in nature. Through notebooks, drafts, and correspondence, he slowly built the framework for natural selection but delayed publishing it. 
