@@ -1,5 +1,5 @@
 ---
-title: Peter Eaton and UCSB's records
+title: What is so important about the owner of this archive?
 ---
 
-Yap about Peter Eaton, and give some hefty proof. 
+The true significance of this archive lies in how Julian Huxley used these inherited materials to actively bridge Victorian naturalism with modern genetics. This is scene in his the copy of On the Origin of Species, which he treated not as a sacred relic, but as a tool for his own ideas. Its value derives not from its monteary value, but from the penciled in thoughts, conversations and highlights in the margins and text, where we can see a glimpse into part of Julian Huxley's thoughts taking shape but also raises new questions...

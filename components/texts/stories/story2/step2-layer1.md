@@ -8,7 +8,7 @@ Evolution before Darwin: See Jean-Baptiste Lamarck & Erasmus Darwin
 
 Pivtoal figures & Concepts during: See [term:Charles-Lyell] & [term:Thomas-Robert-Malthus]
 
-Darwin's concept after Orgin of Species: See [term:Evolutionary-Mechanism] (Pangensis --> Genetics)
+Darwin's concept after Orgin of Species: See [term:Evolutionary-Mechanism] [term:Pangensis] 
 
 
 
