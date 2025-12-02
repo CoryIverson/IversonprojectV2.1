@@ -1,4 +1,6 @@
 ---
-title: Did Darwin ever say this? 
+title: Darwinism vs Darwin
 ---
-Yes... Explain how he was pushed, showing how influence from Huxley and Wallace from the impact of Spencer and others had Darwin change his wording. Showing how EDITIONS matter for books ; and why the first edition is critical as we get a more "pure" version of Darwin, that has not gone through major changes. 
+How Social Darwinism took the popular theory (Darwin's Theory) and used it with other theories that the likes of Herbert Spencer, and Darwin's Cousin Francis Galton believed. Linking this with a few other figures and tieing it a nice and neat defintion. 
+
+Historization: How Spencer came up with the theory, the term Darwinism was pushed by the likes of Huxley,  but the concept was historiczied by Richard Hofstadter and others) 

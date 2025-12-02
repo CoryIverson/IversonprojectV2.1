@@ -1,7 +1,9 @@
 ---
-title: How did the Beagle voyage shape Darwin’s thinking?
+title: Why was he known as "Darwin's Bulldog"?
 ---
 
-During the HMS Beagle voyage (1831–1836), Darwin collected specimens, compared environments, and observed geological formations firsthand. He read Charles Lyell’s *Principles of Geology* on board, which presented Darwin with Lyells theory of gradualism which emphasized a slow change over millenias of time.
+Huxley’s influence operated on two distinct levels: the public defender and the private organizer.
 
-This concept, along with exposure, examinations, and collecting various speciems to examine (Darwins Finches) pushed him to consider variation, adaptation, and the possibility that species were not fixed. The voyage provided the raw observations that later fueled his theoretical work...
+The Public Defender: Huxley famously called himself "Darwin's Bulldog," stating he was ready to fight critics who were "barking" at the theory. (Cite life and letters vol 2) He framed the Origin of Species not just as a biology book, but as a scientific revolution equal to Isaac Newton’s physics. By treating evolution as serious, empirical science, he forced the public to engage with it rather than dismiss it.
+
+The Private Authority: Behind the scenes, Huxley legitimized these ideas through institutional power. He held top positions in the [Royal], [Geological], and [Linnean Societies]. This status allowed him to support Darwin from the top down, using his authority and vast correspondence network to ensure evolution was accepted by the scientific establishment.

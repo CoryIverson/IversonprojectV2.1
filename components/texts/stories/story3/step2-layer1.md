@@ -1,3 +1,4 @@
 ---
-title: Alfred Wallace, co-author of Evolution
+title: In correspdonce 
 ---
+Privately, Huxley pushed back against Darwin’s strict commitment to slow change (Gradualism), arguing that nature sometimes leaped a concept known as Saltation. He also doubted that Natural Selection alone could account for all differences, noting that even the best artificial breeders had never produced forms truly sterile from their parent stock. Beyond theory, Huxley was a key player in the Linnean, Royal, and Geological Societies, which gave him immense private leverage to match and bolster his authority publically. He used this institutional weight to push evolutionary discourse, while also having an intense social network such as his "X-Club".  Thus, much like Darwin his private network was just as important if not more so than his public facing persona. 
