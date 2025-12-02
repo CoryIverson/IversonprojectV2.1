@@ -1,10 +1,10 @@
 ---
 title: This is broken as of 9:18 A.M...Apolgies! 
 ---
-The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation... -.-
+The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation.
 
 :::carousel
-image: Huxleyprice1.jpg
+image: Huxleyprice1.png
 alt: Spine of the Orginal Clamshell-Box the Orgin of Species came in
 caption: 
 credit: 
