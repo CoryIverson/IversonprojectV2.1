@@ -12,4 +12,4 @@ Darwin's concept after Orgin of Species: See [term:Evolutionary-Mechanism] [term
 
 
 
-In the theory of evolution, the book was like the biggest boulder landing into a lake. It might've made the biggest ripple, but all of the other pebbles, rocks and boulders each made ripples that merge. Some of these ripples last centuries, some last weeks, but each had their piece. 
+In the theory of evolution, the book was like the biggest boulder landing into a lake. It might've made the biggest ripple, but all of the other pebbles, rocks and boulders each made ripples that merge. Some of these ripples last centuries, some last weeks, but each had their piece. History in general is never linear ; it's messy and chaotic like string theory. The history of evolution is also just that, messy and chaotic as these concepts are also debated hotly in certain circles today. 
