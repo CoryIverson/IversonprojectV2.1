@@ -1,5 +1,5 @@
 ---
-title: title: UCSB's Special Research Collection
+title: UCSB's Special Research Collection
 ---
 [The Special Research Collection](https://www.library.ucsb.edu/special-collections) at UCSB is the department that overseas the archives at UCSB, as they state:
 >"The Department of Special Research Collections acquires, preserves, and makes accessible rare, valuable, or unique materials that support UC Santa Barbara students, faculty, and research programs, as well as the scholarly community. 
