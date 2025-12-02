@@ -6,9 +6,9 @@ Darwin's theory by the time of his biggest book *On The Orgin of Species by Mean
 Evolution before Darwin: See Jean-Baptiste Lamarck & Erasmus Darwin
 
 
-Pivtoal figures & Concepts during: See Lyell & Malthus
+Pivtoal figures & Concepts during: See [term:Charles-Lyell] & [term:Thomas-Robert-Malthus]
 
-Darwin's concept after Orgin of Species: See A mechanism (Pangensis --> Genetics)
+Darwin's concept after Orgin of Species: See [term:Evolutionary-Mechanism] (Pangensis --> Genetics)
 
 
 
