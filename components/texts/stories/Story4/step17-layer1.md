@@ -1,7 +1,7 @@
 ---
-title: The Physical Copy
+title: This is broken as of 9:18 A.M...Apolgies! 
 ---
-
+The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation... -.-
 :::carousel
 image: {{ site.baseurl }}/assets/images/openseadragon/Originexternal1.jpg
 alt: Spine of the Orginal Clamshell-Box the Orgin of Species came in
