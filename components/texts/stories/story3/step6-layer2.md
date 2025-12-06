@@ -1,5 +1,5 @@
 ---
-title: This is broken as of 9:18 A.M...Apolgies! 
+title: What questions? And how do we know the archive's manuscripts ARE Julian Huxley's?
 ---
 The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation.
 
