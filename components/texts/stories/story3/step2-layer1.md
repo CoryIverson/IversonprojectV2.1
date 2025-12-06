@@ -3,7 +3,7 @@ title: In correspdonce
 ---
 Privately, Huxley pushed back against Darwin’s strict commitment to slow change (Gradualism), arguing that nature sometimes leaped a concept known as Saltation. He also doubted that Natural Selection alone could account for all differences, noting that even the best artificial breeders had never produced forms truly sterile from their parent stock. Beyond theory, Huxley was a key player in the Linnean, Royal, and Geological Societies, which gave him immense private leverage to match and bolster his authority publically. He used this institutional weight to push evolutionary discourse, while also having an intense social network such as his "X-Club".  Thus, much like Darwin his private network was just as important if not more so than his public facing persona. 
 
-![Huxley Correspondence](components/images/Thhuxleyletter.png)
+![Huxley Correspondence](Thhuxleyletter.png)
 
 >Transcript: My dear Darwin
 I finished your book yesterday a lucky examination having furnished me with a few hours of continuous leisure—
@@ -18,4 +18,6 @@ I trust you will not allow yourself to be in any way disgusted or annoyed by the
 I am sharpening up my claws & beak in readiness
 Looking back over my letter it really expresses so feebly all I think about you & your noble book that I am half ashamed of it—but you will understand that like the Parrot in the story ‘I think the more’3
 Ever yours faithfully | T H Huxley
+
+
 [Transcript Citation](https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2544.xml)
