@@ -1,7 +1,7 @@
 ---
-term_id: Descent-with-modificiation
+term_id: descent-with-modificiation
 title: "Descent with modification"
-related_terms: OoS-(Orgin of species),Charles-Darwin,
+related_terms:
 ---
 
 Darwin did not use the word evolution in the first edition of On the Origin of Species. Instead, he described his theory as “descent with modification” the idea that species change gradually over a long period of time. In the Orgin of Species, Darwin ends the text with...

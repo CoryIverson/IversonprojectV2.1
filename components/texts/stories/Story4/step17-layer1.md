@@ -1,7 +1,7 @@
 ---
 title: This is broken as of 9:18 A.M...Apolgies! 
 ---
-The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation... -.-
+The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation.
 
 :::carousel
 image: originexternal1.jpg
@@ -26,7 +26,7 @@ credit:
 ---
 
 image: originexternal4.jpg
-alt: Spine of the book
+alt:
 caption:
 credit: 
 
