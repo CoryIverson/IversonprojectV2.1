@@ -1,10 +1,10 @@
 ---
-title: This is broken as of 9:18 A.M...Apolgies! 
+title: Last shot
 ---
-The Carousel widget was not working as of 9:18 A.M. Trying to fix it before presentation.
+Test final.
 
 :::carousel
-image: assets\images\Originexternal6.jpg
+image: Originexternal1.jpg
 alt: Spine of the Orginal Clamshell-Box the Orgin of Species came in
 caption: 
 credit: 
@@ -26,7 +26,7 @@ credit:
 ---
 
 image: Originexternal4.jpg
-alt:
+alt: test
 caption:
 credit: 
 
@@ -50,8 +50,4 @@ image: Originexternal7.jpg
 alt: How the book naturaly wants to open, the image will not do it justice. It has a "feeling" to it.
 caption: 
 credit: 
-
----
-
-
 :::
