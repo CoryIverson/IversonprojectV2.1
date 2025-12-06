@@ -1,7 +1,7 @@
 ---
 term_id: UNESCO
-title: "UNESCO"
-related_terms: Julian-Sorell-Huxley, Modern-Synthesis
+title: "unesco"
+related_terms:
 ---
 
 The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations, founded in 1945 to promote international cooperation in education, science, culture, and communication. Its mission is to support global peace and development by encouraging the exchange of knowledge, protecting cultural and natural heritage, expanding access to education, and advancing scientific collaboration.
