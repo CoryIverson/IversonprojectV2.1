@@ -1,6 +1,6 @@
 ---
 term_id: UNESCO
-title: "unesco"
+title: "UNESCO"
 related_terms:
 ---
 
