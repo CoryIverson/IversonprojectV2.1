@@ -18,11 +18,11 @@ Roadmap & Goals:
 
 Story by story additions to be coming: 
 
-Story 1 "The Archive and Evolution": Some minor additions and changes to the images are proposed but on the backburner. 
-Story 2 "Charles Darwin": Expanding a bit more in depth, and fixxing the glossary issues that I had to remove as of 12/5/2025.
-Story 3 "The Huxleys": Similar to Story 2, Thomas Huxley will have a bit more material to give a clearer picture and connect him to Julian better. As for Julian, there are a few aspects to his story I had to cut for flow and need to reintegrate. The final slide in story 3 is also temporary, as it serves as a way to tie into the unfinished Story 5.
-Story 4 "The Orgin of Species": This has a few additions planned to be added, along with planned on being shortened. The lengthier scrolling narrative of it, stems from the fact the carousels I had planned re-broke and I ran out of time before submitting this 12/6/2025. 
-Story 5 "Provenance and You": Is planned and outlined, but requires engagement with a lot of material beyond the scope of this collection, and is a part of the bigger project itself. 
+* Story 1 "The Archive and Evolution": Some minor additions and changes to the images are proposed but on the backburner. 
+* Story 2 "Charles Darwin": Expanding a bit more in depth, and fixxing the glossary issues that I had to remove as of 12/5/2025.
+* Story 3 "The Huxleys": Similar to Story 2, Thomas Huxley will have a bit more material to give a clearer picture and connect him to Julian better. As for Julian, there are a few aspects to his story I had to cut for flow and need to reintegrate. The final slide in story 3 is also temporary, as it serves as a way to tie into the unfinished Story 5.
+* Story 4 "The Orgin of Species": This has a few additions planned to be added, along with planned on being shortened. The lengthier scrolling narrative of it, stems from the fact the carousels I had planned re-broke and I ran out of time before submitting this 12/6/2025. 
+* Story 5 "Provenance and You": Is planned and outlined, but requires engagement with a lot of material beyond the scope of this collection, and is a part of the bigger project itself. 
 
 
 Feedback on the current state of the project can be put [here](https://docs.google.com/forms/d/e/1FAIpQLScRYMDTashOQJDZuH608xJW_tGqDbX_byeKAC1gpd2TTR4vaA/viewform?usp=publish-editor) (it's anonymous ( ´ ω ` ) )
