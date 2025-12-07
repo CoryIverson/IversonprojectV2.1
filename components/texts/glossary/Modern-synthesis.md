@@ -1,7 +1,7 @@
 ---
-term_id: Modern-Synthesis
+term_id: modern-synthesis
 title: "Modern Synthesis"
-related_terms: Julian-Sorell-Huxley, 
+related_terms:
 ---
 
 The Modern Synthesis is a 20th century scientific framework that unified Darwin’s theory of natural selection with genetics. It explained evolution as changes in gene frequencies within populations over time, integrating insights from biology, paleontology, zoology, and many other fields. This synthesis shaped modern evolutionary biology as we know it today, but is part of a series of major works and theories starting with Theodosius Dobzhansky in 1937. Julian Huxley's *Evolution:The Modern Synthesis (1942)* was another important intervention into this discourse. 

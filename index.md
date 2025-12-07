@@ -9,7 +9,7 @@ objects_intro: "Browse {count} objects featured in the stories."
 
 ![Front Banner](components/images/evolutionimage1.png){large}
 ## Welcome to the Iverson Special Collection Project (V2.1X).
-This site showcases the Darwin Special Collection at UCSB. As this is a project that is going to be worked on over the course of the next year and possibly longer, this is very much a work in progress and a small sample of what is to come. The state you're viewing this in could be very similar or wildly different in the next few months ; so please do feel free to check in. A email update sign up will be coming soon if you dop find your self interested! 
+This site showcases the Darwin Special Collection at UCSB. As this is a project that is going to be worked on over the course of the next year and possibly longer, this is very much a work in progress and a small sample of what is to come. The state you're viewing this in could be very similar or wildly different in the next few months ; so please do feel free to check in. A email update sign up will be coming soon if you do find your self interested! 
 
 
 Roadmap & Goals: 
